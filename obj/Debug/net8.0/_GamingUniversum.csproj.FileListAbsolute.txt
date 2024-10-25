@@ -1,0 +1,14 @@
+C:\Users\DeiselStani\source\repos\_GamingUniversum\bin\Debug\net8.0\_GamingUniversum.exe
+C:\Users\DeiselStani\source\repos\_GamingUniversum\bin\Debug\net8.0\_GamingUniversum.deps.json
+C:\Users\DeiselStani\source\repos\_GamingUniversum\bin\Debug\net8.0\_GamingUniversum.runtimeconfig.json
+C:\Users\DeiselStani\source\repos\_GamingUniversum\bin\Debug\net8.0\_GamingUniversum.dll
+C:\Users\DeiselStani\source\repos\_GamingUniversum\bin\Debug\net8.0\_GamingUniversum.pdb
+C:\Users\DeiselStani\source\repos\_GamingUniversum\obj\Debug\net8.0\_GamingUniversum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeiselStani\source\repos\_GamingUniversum\obj\Debug\net8.0\_GamingUniversum.AssemblyInfoInputs.cache
+C:\Users\DeiselStani\source\repos\_GamingUniversum\obj\Debug\net8.0\_GamingUniversum.AssemblyInfo.cs
+C:\Users\DeiselStani\source\repos\_GamingUniversum\obj\Debug\net8.0\_GamingUniversum.csproj.CoreCompileInputs.cache
+C:\Users\DeiselStani\source\repos\_GamingUniversum\obj\Debug\net8.0\_GamingUniversum.dll
+C:\Users\DeiselStani\source\repos\_GamingUniversum\obj\Debug\net8.0\refint\_GamingUniversum.dll
+C:\Users\DeiselStani\source\repos\_GamingUniversum\obj\Debug\net8.0\_GamingUniversum.pdb
+C:\Users\DeiselStani\source\repos\_GamingUniversum\obj\Debug\net8.0\_GamingUniversum.genruntimeconfig.cache
+C:\Users\DeiselStani\source\repos\_GamingUniversum\obj\Debug\net8.0\ref\_GamingUniversum.dll
